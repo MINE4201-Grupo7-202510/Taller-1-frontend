@@ -32,10 +32,15 @@ npm run dev
 ## 4. Abre el proyecto en el navegador
 Cuando corras el comando anterior, verás algo como:
 ```
-Compiled successfully!
+> taller1_mine4201_front@0.0.0 dev
+> vite
 
-You can now view your app in the browser.
 
-  Local:            http://localhost:3000
+  VITE v6.2.1  ready in 718 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
 ```
-Ve a tu navegador y abre **http://localhost:3000**
+Ve a tu navegador y abre **[http://localhost:5173](http://localhost:5173/)**
